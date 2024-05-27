@@ -85,7 +85,7 @@ DATABASES = {
         'USER': 'root',
         'PASSWORD': 'root',
         'HOST': 'db',
-        'PORT': '3306' # Port inside service
+        'PORT': '3306'  # Port inside service
     }
 }
 
